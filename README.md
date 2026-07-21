@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0200-number-of-islands) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
