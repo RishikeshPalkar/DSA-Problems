@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
