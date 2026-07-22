@@ -46,6 +46,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0367-valid-perfect-square) |
@@ -92,6 +93,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
