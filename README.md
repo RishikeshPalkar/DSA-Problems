@@ -1,5 +1,18 @@
-# DSA-Problems
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 DSA-Problems
+
+A collection of my **LeetCode** solutions in **Java**, created to strengthen my Data Structures & Algorithms skills and prepare for technical interviews.
+
+## 📌 About
+
+- 💻 Language: **Java**
+- 🧩 Platform: **LeetCode**
+- 📚 Covers topics like Arrays, Binary Search, Trees, Graphs, Dynamic Programming, and more.
+- 📈 Updated automatically using **LeetHub v2** as I solve new problems.
+- 🎯 Goal: Solve LeetCode problems consistently and build strong problem-solving skills.
+
+---
+
+## 📊 LeetCode Topics
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
