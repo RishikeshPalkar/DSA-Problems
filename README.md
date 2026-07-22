@@ -47,6 +47,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -94,4 +95,8 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | ------- |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
