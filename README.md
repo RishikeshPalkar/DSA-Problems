@@ -52,6 +52,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0367-valid-perfect-square](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -95,6 +96,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0048-rotate-image](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
 | ------- |
