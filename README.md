@@ -12,7 +12,6 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 
 ---
 
-## 📊 LeetCode Topics
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
