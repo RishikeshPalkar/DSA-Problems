@@ -30,6 +30,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0540-single-element-in-a-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0540-single-element-in-a-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
 |  |
