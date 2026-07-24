@@ -100,6 +100,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0367-valid-perfect-square) |
