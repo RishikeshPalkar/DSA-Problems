@@ -74,6 +74,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -119,6 +120,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
