@@ -24,6 +24,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0035-search-insert-position](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -110,6 +112,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
