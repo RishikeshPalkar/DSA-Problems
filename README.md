@@ -41,6 +41,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | ------- |
 | [0001-two-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0011-container-with-most-water](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -137,4 +139,8 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
