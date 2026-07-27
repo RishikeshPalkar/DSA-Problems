@@ -41,6 +41,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | ------- |
 | [0001-two-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -126,6 +128,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
