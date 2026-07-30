@@ -28,6 +28,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
@@ -63,6 +64,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0035-search-insert-position](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
@@ -143,6 +145,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
