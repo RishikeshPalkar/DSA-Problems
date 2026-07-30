@@ -58,6 +58,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0141-linked-list-cycle](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
