@@ -7,8 +7,8 @@ class Solution {
             if(buy > i){
                 buy = i;
             }
-            else if (i-buy > profit){
-                profit = i-buy;
+            else {
+                profit =Math.max( i-buy , profit);
             }
         }
         return profit;
