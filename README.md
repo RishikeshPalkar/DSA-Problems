@@ -38,6 +38,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2706-buy-two-chocolates](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0011-container-with-most-water) |
+| [2706-buy-two-chocolates](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2706-buy-two-chocolates](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/2706-buy-two-chocolates) |
 ## Interactive
 |  |
 | ------- |
