@@ -41,6 +41,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0367-valid-perfect-square](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Sorting
 |  |
 | ------- |
