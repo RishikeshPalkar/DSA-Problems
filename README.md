@@ -122,6 +122,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0069-sqrtx](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0441-arranging-coins) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
