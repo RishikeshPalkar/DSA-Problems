@@ -41,6 +41,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1672-richest-customer-wealth](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
@@ -118,6 +119,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0048-rotate-image](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0200-number-of-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
