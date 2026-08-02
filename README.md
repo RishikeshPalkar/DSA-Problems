@@ -129,6 +129,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0367-valid-perfect-square](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Sorting
 |  |
