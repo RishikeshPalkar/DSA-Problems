@@ -151,6 +151,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0151-reverse-words-in-a-string](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0709-to-lower-case](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
