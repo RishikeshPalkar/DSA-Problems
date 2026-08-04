@@ -67,6 +67,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -98,6 +99,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0151-reverse-words-in-a-string](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1768-merge-strings-alternately) |
