@@ -29,6 +29,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
@@ -199,6 +200,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 ## Euclidean Algorithm
 |  |
 | ------- |
