@@ -26,6 +26,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0048-rotate-image](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -218,4 +219,8 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
