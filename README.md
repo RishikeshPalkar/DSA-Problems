@@ -33,6 +33,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0347-top-k-frequent-elements](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -88,6 +89,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0860-lemonade-change) |
 | [2706-buy-two-chocolates](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
