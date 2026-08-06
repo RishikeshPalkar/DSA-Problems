@@ -48,6 +48,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
@@ -207,6 +208,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 ## Euclidean Algorithm
 |  |
 | ------- |
