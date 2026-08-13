@@ -39,6 +39,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0605-can-place-flowers](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0860-lemonade-change) |
@@ -209,6 +210,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 ## Euclidean Algorithm
 |  |
