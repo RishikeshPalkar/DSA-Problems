@@ -234,5 +234,6 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
