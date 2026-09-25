@@ -230,4 +230,8 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
