@@ -4,7 +4,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 
 ## 📌 About
 
-- 💻 Language: **Java**
+- 💻 Language: **Java and SQL**
 - 🧩 Platform: **LeetCode**
 - 📚 Covers topics like Arrays, Binary Search, Trees, Graphs, Dynamic Programming, and more.
 - 📈 Updated automatically using **LeetHub v2** as I solve new problems.
