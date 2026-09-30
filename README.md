@@ -34,6 +34,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0283-move-zeroes](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0605-can-place-flowers) |
@@ -62,6 +63,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0141-linked-list-cycle](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -74,6 +76,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -85,6 +88,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
@@ -153,6 +157,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0088-merge-sorted-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
