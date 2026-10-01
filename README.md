@@ -254,6 +254,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0620-not-boring-movies](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1757-recyclable-and-low-fat-products) |
