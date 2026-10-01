@@ -147,6 +147,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0048-rotate-image](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -178,6 +179,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1768-merge-strings-alternately) |
@@ -259,4 +261,8 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
