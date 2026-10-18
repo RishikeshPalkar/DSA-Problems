@@ -64,6 +64,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -159,6 +160,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0436-find-right-interval) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -178,6 +180,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 | [0151-reverse-words-in-a-string](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0709-to-lower-case) |
@@ -237,6 +240,7 @@ A collection of my **LeetCode** solutions in **Java**, created to strengthen my 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/RishikeshPalkar/DSA-Problems/tree/master/0389-find-the-difference) |
 ## Database
 |  |
 | ------- |
